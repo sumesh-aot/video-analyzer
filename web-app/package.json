@@ -1,0 +1,21 @@
+{
+  "name": "web-app",
+  "version": "1.0.0",
+  "description": "Video Recorder",
+  "main": "index.js",
+  "dependencies": {
+    "recordrtc": ">=5.6.1",
+    "video.js": ">=7.0.5",
+    "videojs-wavesurfer": ">=3.3.0",
+    "webrtc-adapter": ">=7.7.0",
+    "videojs-record": "^4.1.0"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "video"
+  ],
+  "author": "sumesh",
+  "license": "MIT"
+}

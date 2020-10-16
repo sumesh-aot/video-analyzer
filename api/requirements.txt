@@ -1,0 +1,7 @@
+flask
+ffmpeg
+nltk
+SpeechRecognition
+pydub
+cdifflib
+flask-cors

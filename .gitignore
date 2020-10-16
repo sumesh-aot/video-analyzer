@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+video.wav
+video.webm
+api/chunks
+web-app/node_modules
